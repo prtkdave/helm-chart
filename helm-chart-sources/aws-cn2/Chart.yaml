@@ -1,6 +1,6 @@
 apiVersion: v2
 name: aws-cn2
-description: A Helm chart for Kubernetes
+description: A Helm chart for AWS EKS CNI as Juniper CN2
 
 # A chart can be either an 'application' or a 'library' chart.
 #
