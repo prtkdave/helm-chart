@@ -1,0 +1,13 @@
+apiVersion: ec2.aws.upbound.io/v1beta1
+kind: VPC
+metadata:
+  name: {{ $.Values.name }}
+  annotations:
+    meta.upbound.io/example-id: eks/v1beta1/cluster
+spec:
+  forProvider:
+    enableDnsHostnames: true
+    region: us-east-1
+    cidrBlock: {{ $.Values.cidrblock }} 
+    tags:
+      Name: {{ $.Values.name }}

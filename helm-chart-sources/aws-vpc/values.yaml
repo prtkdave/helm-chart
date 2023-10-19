@@ -1,0 +1,2 @@
+name: upbound-vpc
+cidrblock: 10.0.0.0/24
