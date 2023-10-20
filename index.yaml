@@ -3,7 +3,7 @@ entries:
   aws-cn2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-20T05:14:14.457080447Z"
+    created: "2023-10-20T09:52:40.356815534Z"
     description: A Helm chart for Kubernetes
     digest: be9d84cd86e8b1d0311313041f317af404ff01f971d209c4d5414d45cdc8b07e
     name: aws-cn2
@@ -14,7 +14,7 @@ entries:
   aws-vpc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-20T05:14:14.457312552Z"
+    created: "2023-10-20T09:52:40.356974666Z"
     description: A Helm chart for Kubernetes
     digest: 30dcf4011a7a55653e3c042292185ff7b48642210c6e5789131cce42cb8a3cba
     name: aws-vpc
@@ -22,10 +22,21 @@ entries:
     urls:
     - aws-vpc-0.1.0.tgz
     version: 0.1.0
+  gcp-network:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-20T09:52:40.357168421Z"
+    description: A Helm chart for Kubernetes
+    digest: 39c532e5091f80dcd5e653ae0cf4b97d1e6f5bac2da4ea13e124218fc58aa62f
+    name: gcp-network
+    type: application
+    urls:
+    - gcp-network-0.1.0.tgz
+    version: 0.1.0
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-10-20T05:14:14.458117634Z"
+    created: "2023-10-20T09:52:40.357540109Z"
     description: A Helm chart for Kubernetes
     digest: dc50e9d5da28f4b0be6b820d2c6d8e71a22a4081d7cecedd5983ce93f049e4f0
     name: helm-chart-test
@@ -33,4 +44,4 @@ entries:
     urls:
     - helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-20T05:14:14.454359769Z"
+generated: "2023-10-20T09:52:40.354883147Z"
