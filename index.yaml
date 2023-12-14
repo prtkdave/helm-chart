@@ -3,7 +3,7 @@ entries:
   aws-cn2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.355496713Z"
+    created: "2023-12-14T04:12:11.950541434Z"
     description: A Helm chart for Kubernetes
     digest: be9d84cd86e8b1d0311313041f317af404ff01f971d209c4d5414d45cdc8b07e
     name: aws-cn2
@@ -14,9 +14,9 @@ entries:
   aws-subnet:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.355790237Z"
+    created: "2023-12-14T04:12:11.950835274Z"
     description: A Helm chart for Kubernetes
-    digest: eb086d5fd75f049da2e2e2f5119f25cf15708b1b887bddd8c27ad12e0e249471
+    digest: d6bee2c0389fe18b86b0fcd9ae6cf05f5bd99d74ac69268c483e0c81f6ce5868
     name: aws-subnet
     type: application
     urls:
@@ -25,7 +25,7 @@ entries:
   aws-vpc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.356043409Z"
+    created: "2023-12-14T04:12:11.951068807Z"
     description: A Helm chart for Kubernetes
     digest: ffad4f66bcdc1e3c3d90c6ee511289e0f6a1c07b195c4df8c1b7b06ce1b85240
     name: aws-vpc
@@ -36,7 +36,7 @@ entries:
   gcp-compute:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.356319761Z"
+    created: "2023-12-14T04:12:11.951350357Z"
     description: A Helm chart for Kubernetes
     digest: 72b649b6523c209f30c32458e5fc5c2ffbe1be49c45678c743d6dcf23187197c
     name: gcp-compute
@@ -47,7 +47,7 @@ entries:
   gcp-network:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.356517417Z"
+    created: "2023-12-14T04:12:11.951557867Z"
     description: A Helm chart for Kubernetes
     digest: 4eca560c9385cc8d02995b5658af193de74e495989582a96cc67c4b90338ce75
     name: gcp-network
@@ -58,7 +58,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T15:23:09.356956272Z"
+    created: "2023-12-14T04:12:11.951927082Z"
     description: A Helm chart for Kubernetes
     digest: dc50e9d5da28f4b0be6b820d2c6d8e71a22a4081d7cecedd5983ce93f049e4f0
     name: helm-chart-test
@@ -66,4 +66,4 @@ entries:
     urls:
     - helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-13T15:23:09.353598986Z"
+generated: "2023-12-14T04:12:11.948593261Z"
